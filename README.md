@@ -1,2 +1,2 @@
 # recordatorios
-Programa que nos recuerda cosas que hacer
+Programa en python que nos recuerda cosas que hacer y lo guarda en un archivo
